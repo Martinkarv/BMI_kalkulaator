@@ -1,0 +1,14 @@
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.exe.config
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.exe
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.pdb
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.csprojAssemblyReference.cache
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.exe
+C:\Users\Jennifer Sikk\Desktop\BMI kalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.pdb
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.exe.config
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.exe
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\bin\Debug\BMI kalkulaator.pdb
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.csprojAssemblyReference.cache
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.exe
+C:\Users\Jennifer Sikk\Desktop\BMIkalkulaator\BMI kalkulaator\obj\Debug\BMI kalkulaator.pdb
